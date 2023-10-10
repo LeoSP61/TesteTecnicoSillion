@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\Usuarios\Leonardo_Principal\Documentos\Teste_Sillion\PlacaTeste_Sillion\PlacaTeste_Sillion.kicad_sch</source>
+    <date>10/10/2023 11:27:14</date>
+    <tool>Eeschema 7.0.8</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Desafio Hardware/Firmware - Sillion</title>
+        <company>Leonardo da Silva Pereira</company>
+        <rev>1</rev>
+        <date>2023-10-09</date>
+        <source>PlacaTeste_Sillion.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10uF</value>
+      <footprint>SamacSys_Parts:EEE1AA220WR</footprint>
+      <datasheet>http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1240.pdf</datasheet>
+      <fields>
+        <field name="Height">5.5</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">EEE-FTH100UAR</field>
+        <field name="Mouser Part Number">667-EEE-FTH100UAR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Panasonic/EEE-FTH100UAR?qs=CMJjuEs1%252BuHShVFRjhUJug%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="EEE-FTH100UAR" description="Aluminum Electrolytic Capacitors - SMD 10uF 50volts 4x5.8mm SMD"/>
+      <property name="Height" value="5.5"/>
+      <property name="Mouser Part Number" value="667-EEE-FTH100UAR"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Panasonic/EEE-FTH100UAR?qs=CMJjuEs1%252BuHShVFRjhUJug%3D%3D"/>
+      <property name="Manufacturer_Name" value="Panasonic"/>
+      <property name="Manufacturer_Part_Number" value="EEE-FTH100UAR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="Aluminum Electrolytic Capacitors - SMD 10uF 50volts 4x5.8mm SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd49cda6-8a88-4e8e-ad5f-e959e87eacfd</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>SamacSys_Parts:CAPC2012X145N</footprint>
+      <datasheet>http://www.vishay.com/docs/45226/vj31xrohsautomlcc.pdf</datasheet>
+      <fields>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">VJ0805Y104MXAMR</field>
+        <field name="Mouser Part Number">77-VJ0805Y104MXAMR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Vitramon/VJ0805Y104MXAMR?qs=tXmISY13bxfWmt89zxE%2FDw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="VJ0805Y104MXAMR" description="Multilayer Ceramic Capacitors MLCC - SMD/SMT 0805 0.1uF 50volts X7R 20%"/>
+      <property name="Height" value="1.45"/>
+      <property name="Mouser Part Number" value="77-VJ0805Y104MXAMR"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Vishay-Vitramon/VJ0805Y104MXAMR?qs=tXmISY13bxfWmt89zxE%2FDw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Vishay"/>
+      <property name="Manufacturer_Part_Number" value="VJ0805Y104MXAMR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 0805 0.1uF 50volts X7R 20%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94905235-4ade-406b-8955-5a05c9f23aab</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>SamacSys_Parts:CAPC2012X145N</footprint>
+      <datasheet>http://www.vishay.com/docs/45226/vj31xrohsautomlcc.pdf</datasheet>
+      <fields>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">VJ0805Y104MXAMR</field>
+        <field name="Mouser Part Number">77-VJ0805Y104MXAMR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Vitramon/VJ0805Y104MXAMR?qs=tXmISY13bxfWmt89zxE%2FDw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="VJ0805Y104MXAMR" description="Multilayer Ceramic Capacitors MLCC - SMD/SMT 0805 0.1uF 50volts X7R 20%"/>
+      <property name="Height" value="1.45"/>
+      <property name="Mouser Part Number" value="77-VJ0805Y104MXAMR"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Vishay-Vitramon/VJ0805Y104MXAMR?qs=tXmISY13bxfWmt89zxE%2FDw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Vishay"/>
+      <property name="Manufacturer_Part_Number" value="VJ0805Y104MXAMR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 0805 0.1uF 50volts X7R 20%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee05e359-41b8-4eb5-9c43-9ef742ad3583</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100nF</value>
+      <footprint>SamacSys_Parts:CAPC2012X145N</footprint>
+      <datasheet>http://www.vishay.com/docs/45226/vj31xrohsautomlcc.pdf</datasheet>
+      <fields>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">VJ0805Y104MXAMR</field>
+        <field name="Mouser Part Number">77-VJ0805Y104MXAMR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Vitramon/VJ0805Y104MXAMR?qs=tXmISY13bxfWmt89zxE%2FDw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="VJ0805Y104MXAMR" description="Multilayer Ceramic Capacitors MLCC - SMD/SMT 0805 0.1uF 50volts X7R 20%"/>
+      <property name="Height" value="1.45"/>
+      <property name="Mouser Part Number" value="77-VJ0805Y104MXAMR"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Vishay-Vitramon/VJ0805Y104MXAMR?qs=tXmISY13bxfWmt89zxE%2FDw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Vishay"/>
+      <property name="Manufacturer_Part_Number" value="VJ0805Y104MXAMR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 0805 0.1uF 50volts X7R 20%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac8fc5e3-761e-4b53-bfb9-a663d7504ca5</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100nF</value>
+      <footprint>SamacSys_Parts:CAPC2012X145N</footprint>
+      <datasheet>http://www.vishay.com/docs/45226/vj31xrohsautomlcc.pdf</datasheet>
+      <fields>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">VJ0805Y104MXAMR</field>
+        <field name="Mouser Part Number">77-VJ0805Y104MXAMR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Vitramon/VJ0805Y104MXAMR?qs=tXmISY13bxfWmt89zxE%2FDw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="VJ0805Y104MXAMR" description="Multilayer Ceramic Capacitors MLCC - SMD/SMT 0805 0.1uF 50volts X7R 20%"/>
+      <property name="Height" value="1.45"/>
+      <property name="Mouser Part Number" value="77-VJ0805Y104MXAMR"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Vishay-Vitramon/VJ0805Y104MXAMR?qs=tXmISY13bxfWmt89zxE%2FDw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Vishay"/>
+      <property name="Manufacturer_Part_Number" value="VJ0805Y104MXAMR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 0805 0.1uF 50volts X7R 20%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e69ac63-5b46-4f90-bfb1-1a6f5760996c</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100nF</value>
+      <footprint>SamacSys_Parts:CAPC2012X145N</footprint>
+      <datasheet>http://www.vishay.com/docs/45226/vj31xrohsautomlcc.pdf</datasheet>
+      <fields>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">VJ0805Y104MXAMR</field>
+        <field name="Mouser Part Number">77-VJ0805Y104MXAMR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Vitramon/VJ0805Y104MXAMR?qs=tXmISY13bxfWmt89zxE%2FDw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="VJ0805Y104MXAMR" description="Multilayer Ceramic Capacitors MLCC - SMD/SMT 0805 0.1uF 50volts X7R 20%"/>
+      <property name="Height" value="1.45"/>
+      <property name="Mouser Part Number" value="77-VJ0805Y104MXAMR"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Vishay-Vitramon/VJ0805Y104MXAMR?qs=tXmISY13bxfWmt89zxE%2FDw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Vishay"/>
+      <property name="Manufacturer_Part_Number" value="VJ0805Y104MXAMR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 0805 0.1uF 50volts X7R 20%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa3d45b5-58a1-438a-96a7-a7d1b5922d8d</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>22pF</value>
+      <footprint>SamacSys_Parts:CAPC2012X94N</footprint>
+      <datasheet>https://datasheets.kyocera-avx.com/C0GNP0-Dielectric.pdf</datasheet>
+      <fields>
+        <field name="Height">0.94</field>
+        <field name="Manufacturer_Name">AVX</field>
+        <field name="Manufacturer_Part_Number">08055A220FAT2A</field>
+        <field name="Mouser Part Number">581-08055A220FAT2A</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/AVX/08055A220FAT2A?qs=owscpGBW86W1eHk5tzJ5LQ%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="08055A220FAT2A" description="AVX - 08055A220FAT2A - Capacitor,Ceramic,22pF,50VDC,1-% Tol,1+% Tol,C0G-TC Code,-30,30ppm-TC RoHS Compliant: Yes"/>
+      <property name="Height" value="0.94"/>
+      <property name="Mouser Part Number" value="581-08055A220FAT2A"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/AVX/08055A220FAT2A?qs=owscpGBW86W1eHk5tzJ5LQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="AVX"/>
+      <property name="Manufacturer_Part_Number" value="08055A220FAT2A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="AVX - 08055A220FAT2A - Capacitor,Ceramic,22pF,50VDC,1-% Tol,1+% Tol,C0G-TC Code,-30,30ppm-TC RoHS Compliant: Yes"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88c6d6ca-6c47-4452-afaf-e2595257889f</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>22pF</value>
+      <footprint>SamacSys_Parts:CAPC2012X94N</footprint>
+      <datasheet>https://datasheets.kyocera-avx.com/C0GNP0-Dielectric.pdf</datasheet>
+      <fields>
+        <field name="Height">0.94</field>
+        <field name="Manufacturer_Name">AVX</field>
+        <field name="Manufacturer_Part_Number">08055A220FAT2A</field>
+        <field name="Mouser Part Number">581-08055A220FAT2A</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/AVX/08055A220FAT2A?qs=owscpGBW86W1eHk5tzJ5LQ%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="08055A220FAT2A" description="AVX - 08055A220FAT2A - Capacitor,Ceramic,22pF,50VDC,1-% Tol,1+% Tol,C0G-TC Code,-30,30ppm-TC RoHS Compliant: Yes"/>
+      <property name="Height" value="0.94"/>
+      <property name="Mouser Part Number" value="581-08055A220FAT2A"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/AVX/08055A220FAT2A?qs=owscpGBW86W1eHk5tzJ5LQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="AVX"/>
+      <property name="Manufacturer_Part_Number" value="08055A220FAT2A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="AVX - 08055A220FAT2A - Capacitor,Ceramic,22pF,50VDC,1-% Tol,1+% Tol,C0G-TC Code,-30,30ppm-TC RoHS Compliant: Yes"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb49a342-3543-424e-a28d-a33f32670118</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100nF</value>
+      <footprint>SamacSys_Parts:CAPC2012X145N</footprint>
+      <datasheet>http://www.vishay.com/docs/45226/vj31xrohsautomlcc.pdf</datasheet>
+      <fields>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">VJ0805Y104MXAMR</field>
+        <field name="Mouser Part Number">77-VJ0805Y104MXAMR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Vitramon/VJ0805Y104MXAMR?qs=tXmISY13bxfWmt89zxE%2FDw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="VJ0805Y104MXAMR" description="Multilayer Ceramic Capacitors MLCC - SMD/SMT 0805 0.1uF 50volts X7R 20%"/>
+      <property name="Height" value="1.45"/>
+      <property name="Mouser Part Number" value="77-VJ0805Y104MXAMR"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Vishay-Vitramon/VJ0805Y104MXAMR?qs=tXmISY13bxfWmt89zxE%2FDw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Vishay"/>
+      <property name="Manufacturer_Part_Number" value="VJ0805Y104MXAMR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 0805 0.1uF 50volts X7R 20%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4ba4a6f-fb48-4420-9418-7669ad4e7d35</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100nF</value>
+      <footprint>SamacSys_Parts:CAPC2012X145N</footprint>
+      <datasheet>http://www.vishay.com/docs/45226/vj31xrohsautomlcc.pdf</datasheet>
+      <fields>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">VJ0805Y104MXAMR</field>
+        <field name="Mouser Part Number">77-VJ0805Y104MXAMR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Vitramon/VJ0805Y104MXAMR?qs=tXmISY13bxfWmt89zxE%2FDw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="VJ0805Y104MXAMR" description="Multilayer Ceramic Capacitors MLCC - SMD/SMT 0805 0.1uF 50volts X7R 20%"/>
+      <property name="Height" value="1.45"/>
+      <property name="Mouser Part Number" value="77-VJ0805Y104MXAMR"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Vishay-Vitramon/VJ0805Y104MXAMR?qs=tXmISY13bxfWmt89zxE%2FDw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Vishay"/>
+      <property name="Manufacturer_Part_Number" value="VJ0805Y104MXAMR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 0805 0.1uF 50volts X7R 20%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8e072d8-f4b6-46db-a52c-72d399358e78</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>SBRT5A50SA-13</value>
+      <footprint>SamacSys_Parts:DIOM5226X240N</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/SBRT5A50SA.pdf</datasheet>
+      <fields>
+        <field name="Height">2.4</field>
+        <field name="Manufacturer_Name">Diodes Inc.</field>
+        <field name="Manufacturer_Part_Number">SBRT5A50SA-13</field>
+        <field name="Mouser Part Number">621-SBRT5A50SA-13</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/SBRT5A50SA-13?qs=vkMqrgFpRag7x5vFbCZKYg%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="SBRT5A50SA-13" description="Schottky Diodes &amp; Rectifiers 5A Trench SBR 50V 5A 0.53Vf 0.15mA"/>
+      <property name="Height" value="2.4"/>
+      <property name="Mouser Part Number" value="621-SBRT5A50SA-13"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/SBRT5A50SA-13?qs=vkMqrgFpRag7x5vFbCZKYg%3D%3D"/>
+      <property name="Manufacturer_Name" value="Diodes Inc."/>
+      <property name="Manufacturer_Part_Number" value="SBRT5A50SA-13"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="Schottky Diodes &amp; Rectifiers 5A Trench SBR 50V 5A 0.53Vf 0.15mA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7ea9f9b-8224-4e39-ac1d-f72447d5c3b8</tstamps>
+    </comp>
+    <comp ref="DS1">
+      <value>WC1602A</value>
+      <footprint>Display:WC1602A</footprint>
+      <datasheet>http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf</datasheet>
+      <libsource lib="Display_Character" part="WC1602A" description="LCD 16x2 Alphanumeric , 8 bit parallel bus, 5V VDD"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="LCD 16x2 Alphanumeric , 8 bit parallel bus, 5V VDD"/>
+      <property name="ki_keywords" value="display LCD dot-matrix"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b71f6a6-0ee8-4e48-b6e0-3b217334263d</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>2A</value>
+      <footprint>SamacSys_Parts:39512000000</footprint>
+      <datasheet>https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_395_datasheet.pdf.pdf</datasheet>
+      <fields>
+        <field name="Height">8</field>
+        <field name="Manufacturer_Name">LITTELFUSE</field>
+        <field name="Manufacturer_Part_Number">39512000000</field>
+        <field name="Mouser Part Number">576-3951200000</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Littelfuse/39512000000?qs=bEWkMhb0NhMa1wvI8W3uTQ%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="39512000000" description="LITTELFUSE - 39512000000 - Fuse, PCB Leaded, 2 A, 125 VAC, TE5 Series, Fast Acting, Radial Leaded"/>
+      <property name="Height" value="8"/>
+      <property name="Mouser Part Number" value="576-3951200000"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Littelfuse/39512000000?qs=bEWkMhb0NhMa1wvI8W3uTQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="LITTELFUSE"/>
+      <property name="Manufacturer_Part_Number" value="39512000000"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="LITTELFUSE - 39512000000 - Fuse, PCB Leaded, 2 A, 125 VAC, TE5 Series, Fast Acting, Radial Leaded"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6116e612-c278-4f72-b761-187149335984</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Power</value>
+      <footprint>SamacSys_Parts:1731721</footprint>
+      <datasheet>http://www.phoenixcontact.com/de/produkte/1731721/pdf</datasheet>
+      <fields>
+        <field name="Height">18.2</field>
+        <field name="Manufacturer_Name">Phoenix Contact</field>
+        <field name="Manufacturer_Part_Number">1731721</field>
+        <field name="Mouser Part Number">651-1731721</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1731721?qs=Hp4IEBVVqKLHS2iTGzgL4g%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="1731721" description="PCB terminal block, nominal current: 24 A, rated voltage (III/2): 630 V, nominal cross section: 2.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: GMKDS 3, pitch: 7.62 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering"/>
+      <property name="Height" value="18.2"/>
+      <property name="Mouser Part Number" value="651-1731721"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1731721?qs=Hp4IEBVVqKLHS2iTGzgL4g%3D%3D"/>
+      <property name="Manufacturer_Name" value="Phoenix Contact"/>
+      <property name="Manufacturer_Part_Number" value="1731721"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="PCB terminal block, nominal current: 24 A, rated voltage (III/2): 630 V, nominal cross section: 2.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: GMKDS 3, pitch: 7.62 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b362b14d-a144-4f7e-9b0d-77bbee9ebb2f</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>FTDI</value>
+      <footprint>SamacSys_Parts:HDRV6W64P0X254_1X6_1524X254X838P</footprint>
+      <datasheet>http://suddendocs.samtec.com/catalog_english/htsw_th.pdf</datasheet>
+      <fields>
+        <field name="Height">8.38</field>
+        <field name="Manufacturer_Name">SAMTEC</field>
+        <field name="Manufacturer_Part_Number">HTSW-106-07-T-S</field>
+        <field name="Mouser Part Number">200-HTSW10607TS</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Samtec/HTSW-106-07-T-S?qs=0lQeLiL1qyaHcVArKisLKg%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="HTSW-106-07-T-S" description="Samtec HTSW, 2.54mm Pitch, 6 Way, 1 Row PCB Terminal Block Header, Through Hole"/>
+      <property name="Height" value="8.38"/>
+      <property name="Mouser Part Number" value="200-HTSW10607TS"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Samtec/HTSW-106-07-T-S?qs=0lQeLiL1qyaHcVArKisLKg%3D%3D"/>
+      <property name="Manufacturer_Name" value="SAMTEC"/>
+      <property name="Manufacturer_Part_Number" value="HTSW-106-07-T-S"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="Samtec HTSW, 2.54mm Pitch, 6 Way, 1 Row PCB Terminal Block Header, Through Hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2fad8331-0941-4d57-8624-cd6ce9e2567e</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>ICSP</value>
+      <footprint>SamacSys_Parts:HDRV6W64P254_2X3_762X508X838P</footprint>
+      <datasheet>http://suddendocs.samtec.com/catalog_english/tsw_th.pdf</datasheet>
+      <fields>
+        <field name="Height">8.38</field>
+        <field name="Manufacturer_Name">SAMTEC</field>
+        <field name="Manufacturer_Part_Number">TSW-103-23-T-D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="TSW-103-23-T-D" description="CONN HEADER 6 POS .100&quot;"/>
+      <property name="Height" value="8.38"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="SAMTEC"/>
+      <property name="Manufacturer_Part_Number" value="TSW-103-23-T-D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="CONN HEADER 6 POS .100&quot;"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1dbe3692-2c67-49a1-a0d6-f8816d34c8b2</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>5V DC MOTOR</value>
+      <footprint>SamacSys_Parts:1731721</footprint>
+      <datasheet>http://www.phoenixcontact.com/de/produkte/1731721/pdf</datasheet>
+      <fields>
+        <field name="Height">18.2</field>
+        <field name="Manufacturer_Name">Phoenix Contact</field>
+        <field name="Manufacturer_Part_Number">1731721</field>
+        <field name="Mouser Part Number">651-1731721</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1731721?qs=Hp4IEBVVqKLHS2iTGzgL4g%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="1731721" description="PCB terminal block, nominal current: 24 A, rated voltage (III/2): 630 V, nominal cross section: 2.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: GMKDS 3, pitch: 7.62 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering"/>
+      <property name="Height" value="18.2"/>
+      <property name="Mouser Part Number" value="651-1731721"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1731721?qs=Hp4IEBVVqKLHS2iTGzgL4g%3D%3D"/>
+      <property name="Manufacturer_Name" value="Phoenix Contact"/>
+      <property name="Manufacturer_Part_Number" value="1731721"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="PCB terminal block, nominal current: 24 A, rated voltage (III/2): 630 V, nominal cross section: 2.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: GMKDS 3, pitch: 7.62 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a08a304e-5b8e-484a-b6ba-e5a850a4079a</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>10uH</value>
+      <footprint>SamacSys_Parts:INDPM4441X120N</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/SRP4012CC.pdf</datasheet>
+      <fields>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">SRP4012CC-3R3M</field>
+        <field name="Mouser Part Number">652-SRP4012CC-3R3M</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Bourns/SRP4012CC-3R3M?qs=1Kr7Jg1SGW%252BbLcZ9q3%2FWYA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="SRP4012CC-3R3M" description="Ind,4.45x4.06x1.0mm,3.3uH+/-20%,2.3A,shd"/>
+      <property name="Height" value="1.2"/>
+      <property name="Mouser Part Number" value="652-SRP4012CC-3R3M"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Bourns/SRP4012CC-3R3M?qs=1Kr7Jg1SGW%252BbLcZ9q3%2FWYA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Bourns"/>
+      <property name="Manufacturer_Part_Number" value="SRP4012CC-3R3M"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="Ind,4.45x4.06x1.0mm,3.3uH+/-20%,2.3A,shd"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88b60d41-6ca6-4e83-9a41-076c01b586b0</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>IRLB8721PBF</value>
+      <footprint>SamacSys_Parts:TO254P483X1016X1994-3P</footprint>
+      <datasheet>https://br.mouser.com/datasheet/2/196/Infineon_IRLB8721_DataSheet_v01_01_EN-3166571.pdf</datasheet>
+      <fields>
+        <field name="Height">4.83</field>
+        <field name="Manufacturer_Name">Infineon</field>
+        <field name="Manufacturer_Part_Number">IRLB8721PBF</field>
+        <field name="Mouser Part Number">942-IRLB8721PBF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IRLB8721PBF?qs=9%252BKlkBgLFf0T58WYx%2FAl5A%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="IRLB8721PBF" description="Infineon IRLB8721PBF N-Channel MOSFET, 62 A, 30 V HEXFET, 3-Pin TO-220AB"/>
+      <property name="Height" value="4.83"/>
+      <property name="Mouser Part Number" value="942-IRLB8721PBF"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IRLB8721PBF?qs=9%252BKlkBgLFf0T58WYx%2FAl5A%3D%3D"/>
+      <property name="Manufacturer_Name" value="Infineon"/>
+      <property name="Manufacturer_Part_Number" value="IRLB8721PBF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="Infineon IRLB8721PBF N-Channel MOSFET, 62 A, 30 V HEXFET, 3-Pin TO-220AB"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e484a61-bfcf-4cb8-9648-e7f582e4921a</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://br.mouser.com/datasheet/2/447/PYu_RP_51_RoHS_L_0-3071169.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer_Name">YAGEO</field>
+        <field name="Manufacturer_Part_Number">RP0805BRD0710KL</field>
+        <field name="Mouser Part Number">603-RP0805BRD0710KL</field>
+        <field name="Mouser Price/Stock">https://br.mouser.com/ProductDetail/YAGEO/RP0805BRD0710KL?qs=sGAEpiMZZMvdGkrng054t2cqbZCzJY7NPvDOTO3XcCh%252BqMosl7N0Zg%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer_Name" value="YAGEO"/>
+      <property name="Manufacturer_Part_Number" value="RP0805BRD0710KL"/>
+      <property name="Mouser Part Number" value="603-RP0805BRD0710KL"/>
+      <property name="Mouser Price/Stock" value="https://br.mouser.com/ProductDetail/YAGEO/RP0805BRD0710KL?qs=sGAEpiMZZMvdGkrng054t2cqbZCzJY7NPvDOTO3XcCh%252BqMosl7N0Zg%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d84367d-7efe-4676-9771-a46422c20b46</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~https://www.rohm.com/datasheet?p=SDR10EZPJ&amp;dist=Mouser&amp;media=referral&amp;source=mouser.com&amp;campaign=Mouser</datasheet>
+      <fields>
+        <field name="Manufacturer_Name">ROHM Semiconductor</field>
+        <field name="Manufacturer_Part_Number">SDR10EZPJ331</field>
+        <field name="Mouser Part Number">755-SDR10EZPJ331</field>
+        <field name="Mouser Price/Stock">https://br.mouser.com/ProductDetail/ROHM-Semiconductor/SDR10EZPJ331?qs=sGAEpiMZZMvdGkrng054t2cqbZCzJY7Ns3HGkgzcV0PGhjIauuc6YQ%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer_Name" value="ROHM Semiconductor"/>
+      <property name="Manufacturer_Part_Number" value="SDR10EZPJ331"/>
+      <property name="Mouser Part Number" value="755-SDR10EZPJ331"/>
+      <property name="Mouser Price/Stock" value="https://br.mouser.com/ProductDetail/ROHM-Semiconductor/SDR10EZPJ331?qs=sGAEpiMZZMvdGkrng054t2cqbZCzJY7Ns3HGkgzcV0PGhjIauuc6YQ%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8cac4b9e-7315-485a-9606-022234dd7a8f</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://br.mouser.com/datasheet/2/447/PYu_RP_51_RoHS_L_0-3071169.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer_Name">YAGEO</field>
+        <field name="Manufacturer_Part_Number">RP0805BRD0710KL</field>
+        <field name="Mouser Part Number">603-RP0805BRD0710KL</field>
+        <field name="Mouser Price/Stock">https://br.mouser.com/ProductDetail/YAGEO/RP0805BRD0710KL?qs=sGAEpiMZZMvdGkrng054t2cqbZCzJY7NPvDOTO3XcCh%252BqMosl7N0Zg%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer_Name" value="YAGEO"/>
+      <property name="Manufacturer_Part_Number" value="RP0805BRD0710KL"/>
+      <property name="Mouser Part Number" value="603-RP0805BRD0710KL"/>
+      <property name="Mouser Price/Stock" value="https://br.mouser.com/ProductDetail/YAGEO/RP0805BRD0710KL?qs=sGAEpiMZZMvdGkrng054t2cqbZCzJY7NPvDOTO3XcCh%252BqMosl7N0Zg%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b87636a-7db0-4d31-a3c9-cce57bfcd6e1</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~https://br.mouser.com/datasheet/2/315/Panasonic_01052021_Resistor_Thick_FIlm_HI_Temp_ERJ-1950704.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERJ-HP6D4701V</field>
+        <field name="Mouser Part Number">667-ERJ-HP6D4701V</field>
+        <field name="Mouser Price/Stock">https://br.mouser.com/ProductDetail/Panasonic/ERJ-HP6D4701V?qs=sGAEpiMZZMvdGkrng054twKDKoBh%252Bscn%2F9z0QBkeviTJN3ramprp5w%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer_Name" value="Panasonic"/>
+      <property name="Manufacturer_Part_Number" value="ERJ-HP6D4701V"/>
+      <property name="Mouser Part Number" value="667-ERJ-HP6D4701V"/>
+      <property name="Mouser Price/Stock" value="https://br.mouser.com/ProductDetail/Panasonic/ERJ-HP6D4701V?qs=sGAEpiMZZMvdGkrng054twKDKoBh%252Bscn%2F9z0QBkeviTJN3ramprp5w%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>981b15f6-ce5d-4fe1-81ad-a815162e1562</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~https://br.mouser.com/datasheet/2/315/Panasonic_01052021_Resistor_Thick_FIlm_HI_Temp_ERJ-1950704.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERJ-HP6D4701V</field>
+        <field name="Mouser Part Number">667-ERJ-HP6D4701V</field>
+        <field name="Mouser Price/Stock">https://br.mouser.com/ProductDetail/Panasonic/ERJ-HP6D4701V?qs=sGAEpiMZZMvdGkrng054twKDKoBh%252Bscn%2F9z0QBkeviTJN3ramprp5w%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer_Name" value="Panasonic"/>
+      <property name="Manufacturer_Part_Number" value="ERJ-HP6D4701V"/>
+      <property name="Mouser Part Number" value="667-ERJ-HP6D4701V"/>
+      <property name="Mouser Price/Stock" value="https://br.mouser.com/ProductDetail/Panasonic/ERJ-HP6D4701V?qs=sGAEpiMZZMvdGkrng054twKDKoBh%252Bscn%2F9z0QBkeviTJN3ramprp5w%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6af96a51-068a-427d-b198-6eaaad7c565f</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>330R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~https://www.rohm.com/datasheet?p=SDR10EZPJ&amp;dist=Mouser&amp;media=referral&amp;source=mouser.com&amp;campaign=Mouser</datasheet>
+      <fields>
+        <field name="Manufacturer_Name">ROHM Semiconductor</field>
+        <field name="Manufacturer_Part_Number">SDR10EZPJ331</field>
+        <field name="Mouser Part Number">755-SDR10EZPJ331</field>
+        <field name="Mouser Price/Stock">https://www.rohm.com/datasheet?p=SDR10EZPJ&amp;dist=Mouser&amp;media=referral&amp;source=mouser.com&amp;campaign=Mouser</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer_Name" value="ROHM Semiconductor"/>
+      <property name="Manufacturer_Part_Number" value="SDR10EZPJ331"/>
+      <property name="Mouser Part Number" value="755-SDR10EZPJ331"/>
+      <property name="Mouser Price/Stock" value="https://www.rohm.com/datasheet?p=SDR10EZPJ&amp;dist=Mouser&amp;media=referral&amp;source=mouser.com&amp;campaign=Mouser"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bbeed56d-a6f5-4371-ac1c-fab576892ea5</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>330R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~https://www.rohm.com/datasheet?p=SDR10EZPJ&amp;dist=Mouser&amp;media=referral&amp;source=mouser.com&amp;campaign=Mouser</datasheet>
+      <fields>
+        <field name="Manufacturer_Name">ROHM Semiconductor</field>
+        <field name="Manufacturer_Part_Number">SDR10EZPJ331</field>
+        <field name="Mouser Part Number">755-SDR10EZPJ331</field>
+        <field name="Mouser Price/Stock">https://www.rohm.com/datasheet?p=SDR10EZPJ&amp;dist=Mouser&amp;media=referral&amp;source=mouser.com&amp;campaign=Mouser</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer_Name" value="ROHM Semiconductor"/>
+      <property name="Manufacturer_Part_Number" value="SDR10EZPJ331"/>
+      <property name="Mouser Part Number" value="755-SDR10EZPJ331"/>
+      <property name="Mouser Price/Stock" value="https://www.rohm.com/datasheet?p=SDR10EZPJ&amp;dist=Mouser&amp;media=referral&amp;source=mouser.com&amp;campaign=Mouser"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29dc4ca8-6dd8-4097-bdd8-2338675293c5</tstamps>
+    </comp>
+    <comp ref="RV1">
+      <value>10k</value>
+      <footprint>SamacSys_Parts:PVG5A100C03R00</footprint>
+      <datasheet>https://br.mouser.com/datasheet/2/54/pvg5-907351.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">PVG5A100C03R00</field>
+        <field name="Mouser Part Number">81-PVG5A100C03R00</field>
+        <field name="Mouser Price/Stock">https://br.mouser.com/ProductDetail/Bourns/PVG5A100C03R00?qs=K6aI6PsrKE12PjwO8l78Rg%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Manufacturer_Name" value="Bourns"/>
+      <property name="Manufacturer_Part_Number" value="PVG5A100C03R00"/>
+      <property name="Mouser Part Number" value="81-PVG5A100C03R00"/>
+      <property name="Mouser Price/Stock" value="https://br.mouser.com/ProductDetail/Bourns/PVG5A100C03R00?qs=K6aI6PsrKE12PjwO8l78Rg%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="Potentiometer"/>
+      <property name="ki_keywords" value="resistor variable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20ec5f79-3a3c-4359-af04-da45c9305f8f</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>RESET</value>
+      <footprint>SamacSys_Parts:TS026643BK260LCRD</footprint>
+      <datasheet>https://br.mouser.com/datasheet/2/670/ts02-2586188.pdf</datasheet>
+      <fields>
+        <field name="Manufacture_Part_Number">TS02-66-43-BK-260-LCR-D</field>
+        <field name="Manufacturer_Name">CUI Devices</field>
+        <field name="Manufacturer_Part_Number">TS02-66-43-BK-260-LCR-D</field>
+        <field name="Mouser Part Number">179-TS026643BK260LCR</field>
+        <field name="Mouser Price/Stock">https://br.mouser.com/ProductDetail/CUI-Devices/TS02-66-43-BK-260-LCR-D?qs=A6eO%252BMLsxmQi%252BNuzcShOvg%3D%3D</field>
+      </fields>
+      <libsource lib="" part="SW_Push_1" description="Push button switch, generic, two pins"/>
+      <property name="Manufacture_Part_Number" value="TS02-66-43-BK-260-LCR-D"/>
+      <property name="Manufacturer_Name" value="CUI Devices"/>
+      <property name="Manufacturer_Part_Number" value="TS02-66-43-BK-260-LCR-D"/>
+      <property name="Mouser Part Number" value="179-TS026643BK260LCR"/>
+      <property name="Mouser Price/Stock" value="https://br.mouser.com/ProductDetail/CUI-Devices/TS02-66-43-BK-260-LCR-D?qs=A6eO%252BMLsxmQi%252BNuzcShOvg%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>570290a8-4a3b-459d-b678-f4f4d6c9bb10</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>PB1</value>
+      <footprint>SamacSys_Parts:TS026643BK260LCRD</footprint>
+      <datasheet>https://br.mouser.com/datasheet/2/670/ts02-2586188.pdf</datasheet>
+      <fields>
+        <field name="Manufacture_Part_Number">TS02-66-43-BK-260-LCR-D</field>
+        <field name="Manufacturer_Name">CUI Devices</field>
+        <field name="Manufacturer_Part_Number">TS02-66-43-BK-260-LCR-D</field>
+        <field name="Mouser Part Number">179-TS026643BK260LCR</field>
+        <field name="Mouser Price/Stock">https://br.mouser.com/ProductDetail/CUI-Devices/TS02-66-43-BK-260-LCR-D?qs=A6eO%252BMLsxmQi%252BNuzcShOvg%3D%3D</field>
+      </fields>
+      <libsource lib="" part="SW_Push_1" description="Push button switch, generic, two pins"/>
+      <property name="Manufacture_Part_Number" value="TS02-66-43-BK-260-LCR-D"/>
+      <property name="Manufacturer_Name" value="CUI Devices"/>
+      <property name="Manufacturer_Part_Number" value="TS02-66-43-BK-260-LCR-D"/>
+      <property name="Mouser Part Number" value="179-TS026643BK260LCR"/>
+      <property name="Mouser Price/Stock" value="https://br.mouser.com/ProductDetail/CUI-Devices/TS02-66-43-BK-260-LCR-D?qs=A6eO%252BMLsxmQi%252BNuzcShOvg%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30f79e2d-3b84-4622-b367-229c4093ca8f</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ATmega328-P</value>
+      <footprint>Package_DIP:DIP-28_W7.62mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega328_P%20AVR%20MCU%20with%20picoPower%20Technology%20Data%20Sheet%2040001984A.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer_Name">Microchip Technology</field>
+        <field name="Manufacturer_Part_Number">ATMEGA328P-PN</field>
+        <field name="Mouser Part Number">556-ATMEGA328P-PN</field>
+        <field name="Mouser Price/Stock">https://br.mouser.com/ProductDetail/Microchip-Technology/ATMEGA328P-PN?qs=6Dg1WZIWLC4IRXxsq4v5tA%3D%3D</field>
+      </fields>
+      <libsource lib="MCU_Microchip_ATmega" part="ATmega328-P" description="20MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, DIP-28"/>
+      <property name="Manufacturer_Name" value="Microchip Technology"/>
+      <property name="Manufacturer_Part_Number" value="ATMEGA328P-PN"/>
+      <property name="Mouser Part Number" value="556-ATMEGA328P-PN"/>
+      <property name="Mouser Price/Stock" value="https://br.mouser.com/ProductDetail/Microchip-Technology/ATMEGA328P-PN?qs=6Dg1WZIWLC4IRXxsq4v5tA%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="20MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, DIP-28"/>
+      <property name="ki_keywords" value="AVR 8bit Microcontroller MegaAVR"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ecea4210-9e2a-4e15-96a1-280063d89c73</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>ABLS-16.000MHZ-D2Y-T</value>
+      <footprint>SamacSys_Parts:ABLS</footprint>
+      <datasheet>https://abracon.com/Resonators/abls.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer_Name">ABRACON</field>
+        <field name="Manufacturer_Part_Number">ABLS-16.000MHZ-D2Y-T</field>
+        <field name="Mouser Part Number">815-ABLS16MHZD2YT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/ABRACON/ABLS-16.000MHZ-D2Y-T?qs=wnTfsH77Xs6iK%252Bz0SxbbgA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="ABLS-16.000MHZ-D2Y-T" description="OSC XO 1.152GHZ 3.3V LVDS"/>
+      <property name="Height" value=""/>
+      <property name="Mouser Part Number" value="815-ABLS16MHZD2YT"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/ABRACON/ABLS-16.000MHZ-D2Y-T?qs=wnTfsH77Xs6iK%252Bz0SxbbgA%3D%3D"/>
+      <property name="Manufacturer_Name" value="ABRACON"/>
+      <property name="Manufacturer_Part_Number" value="ABLS-16.000MHZ-D2Y-T"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="OSC XO 1.152GHZ 3.3V LVDS"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00f8a024-e970-4389-91d3-b7fd56d85713</tstamps>
+    </comp>
+    <comp ref="Z1">
+      <value>5V1</value>
+      <footprint>SamacSys_Parts:PTZTFTE2551B</footprint>
+      <datasheet>https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/zener/ptztfte255.1b-e.pdf</datasheet>
+      <fields>
+        <field name="Height">2.2</field>
+        <field name="Manufacturer_Name">ROHM Semiconductor</field>
+        <field name="Manufacturer_Part_Number">PTZTFTE255.1B</field>
+        <field name="Mouser Part Number">755-PTZTFTE255.1B</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/PTZTFTE255.1B?qs=4v%252BiZTmLVHHthjeDndbvsg%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="PTZTFTE255.1B" description="1W 5.1V, DO-214AC, High Power Zener Diode for Automotive"/>
+      <property name="Height" value="2.2"/>
+      <property name="Mouser Part Number" value="755-PTZTFTE255.1B"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/PTZTFTE255.1B?qs=4v%252BiZTmLVHHthjeDndbvsg%3D%3D"/>
+      <property name="Manufacturer_Name" value="ROHM Semiconductor"/>
+      <property name="Manufacturer_Part_Number" value="PTZTFTE255.1B"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="1W 5.1V, DO-214AC, High Power Zener Diode for Automotive"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e0e442b-4fad-4ffb-9537-94d09b166d6a</tstamps>
+    </comp>
+    <comp ref="Z2">
+      <value>5V1</value>
+      <footprint>SamacSys_Parts:PTZTFTE2551B</footprint>
+      <datasheet>https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/zener/ptztfte255.1b-e.pdf</datasheet>
+      <fields>
+        <field name="Height">2.2</field>
+        <field name="Manufacturer_Name">ROHM Semiconductor</field>
+        <field name="Manufacturer_Part_Number">PTZTFTE255.1B</field>
+        <field name="Mouser Part Number">755-PTZTFTE255.1B</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/PTZTFTE255.1B?qs=4v%252BiZTmLVHHthjeDndbvsg%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="PTZTFTE255.1B" description="1W 5.1V, DO-214AC, High Power Zener Diode for Automotive"/>
+      <property name="Height" value="2.2"/>
+      <property name="Mouser Part Number" value="755-PTZTFTE255.1B"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/PTZTFTE255.1B?qs=4v%252BiZTmLVHHthjeDndbvsg%3D%3D"/>
+      <property name="Manufacturer_Name" value="ROHM Semiconductor"/>
+      <property name="Manufacturer_Part_Number" value="PTZTFTE255.1B"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="1W 5.1V, DO-214AC, High Power Zener Diode for Automotive"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f742c88-5d65-4bef-8c3c-c116470e264b</tstamps>
+    </comp>
+    <comp ref="Z3">
+      <value>5V1</value>
+      <footprint>SamacSys_Parts:PTZTFTE2551B</footprint>
+      <datasheet>https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/zener/ptztfte255.1b-e.pdf</datasheet>
+      <fields>
+        <field name="Height">2.2</field>
+        <field name="Manufacturer_Name">ROHM Semiconductor</field>
+        <field name="Manufacturer_Part_Number">PTZTFTE255.1B</field>
+        <field name="Mouser Part Number">755-PTZTFTE255.1B</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/PTZTFTE255.1B?qs=4v%252BiZTmLVHHthjeDndbvsg%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="PTZTFTE255.1B" description="1W 5.1V, DO-214AC, High Power Zener Diode for Automotive"/>
+      <property name="Height" value="2.2"/>
+      <property name="Mouser Part Number" value="755-PTZTFTE255.1B"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/PTZTFTE255.1B?qs=4v%252BiZTmLVHHthjeDndbvsg%3D%3D"/>
+      <property name="Manufacturer_Name" value="ROHM Semiconductor"/>
+      <property name="Manufacturer_Part_Number" value="PTZTFTE255.1B"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PlacaTeste_Sillion.kicad_sch"/>
+      <property name="ki_description" value="1W 5.1V, DO-214AC, High Power Zener Diode for Automotive"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98535879-6d48-4942-8486-9ccb740f4ab1</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="SW_Push_1">
+      <description>Push button switch, generic, two pins</description>
+      <docs>https://br.mouser.com/datasheet/2/670/ts02-2586188.pdf</docs>
+      <fields>
+        <field name="Reference">SW1</field>
+        <field name="Value">RESET</field>
+        <field name="Footprint">SamacSys_Parts:TS026643BK260LCRD</field>
+        <field name="Datasheet">https://br.mouser.com/datasheet/2/670/ts02-2586188.pdf</field>
+        <field name="Manufacture_Part_Number">TS02-66-43-BK-260-LCR-D</field>
+        <field name="Manufacturer_Name">CUI Devices</field>
+        <field name="Manufacturer_Part_Number">TS02-66-43-BK-260-LCR-D</field>
+        <field name="Mouser Part Number">179-TS026643BK260LCR</field>
+        <field name="Mouser Price/Stock">https://br.mouser.com/ProductDetail/CUI-Devices/TS02-66-43-BK-260-LCR-D?qs=A6eO%252BMLsxmQi%252BNuzcShOvg%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Potentiometer">
+      <description>Potentiometer</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Display_Character" part="WC1602A">
+      <description>LCD 16x2 Alphanumeric , 8 bit parallel bus, 5V VDD</description>
+      <docs>http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf</docs>
+      <footprints>
+        <fp>*WC*1602A*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">DS</field>
+        <field name="Value">WC1602A</field>
+        <field name="Footprint">Display:WC1602A</field>
+        <field name="Datasheet">http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VSS" type="power_in"/>
+        <pin num="2" name="VDD" type="power_in"/>
+        <pin num="3" name="VO" type="input"/>
+        <pin num="4" name="RS" type="input"/>
+        <pin num="5" name="R/W" type="input"/>
+        <pin num="6" name="E" type="input"/>
+        <pin num="7" name="D0" type="input"/>
+        <pin num="8" name="D1" type="input"/>
+        <pin num="9" name="D2" type="input"/>
+        <pin num="10" name="D3" type="input"/>
+        <pin num="11" name="D4" type="input"/>
+        <pin num="12" name="D5" type="input"/>
+        <pin num="13" name="D6" type="input"/>
+        <pin num="14" name="D7" type="input"/>
+        <pin num="15" name="LED(+)" type="power_in"/>
+        <pin num="16" name="LED(-)" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_Microchip_ATmega" part="ATmega328-P">
+      <description>20MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, DIP-28</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega328_P%20AVR%20MCU%20with%20picoPower%20Technology%20Data%20Sheet%2040001984A.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATmega328-P</field>
+        <field name="Footprint">Package_DIP:DIP-28_W7.62mm</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega328_P%20AVR%20MCU%20with%20picoPower%20Technology%20Data%20Sheet%2040001984A.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{RESET}/PC6" type="bidirectional"/>
+        <pin num="2" name="PD0" type="bidirectional"/>
+        <pin num="3" name="PD1" type="bidirectional"/>
+        <pin num="4" name="PD2" type="bidirectional"/>
+        <pin num="5" name="PD3" type="bidirectional"/>
+        <pin num="6" name="PD4" type="bidirectional"/>
+        <pin num="7" name="VCC" type="power_in"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="XTAL1/PB6" type="bidirectional"/>
+        <pin num="10" name="XTAL2/PB7" type="bidirectional"/>
+        <pin num="11" name="PD5" type="bidirectional"/>
+        <pin num="12" name="PD6" type="bidirectional"/>
+        <pin num="13" name="PD7" type="bidirectional"/>
+        <pin num="14" name="PB0" type="bidirectional"/>
+        <pin num="15" name="PB1" type="bidirectional"/>
+        <pin num="16" name="PB2" type="bidirectional"/>
+        <pin num="17" name="PB3" type="bidirectional"/>
+        <pin num="18" name="PB4" type="bidirectional"/>
+        <pin num="19" name="PB5" type="bidirectional"/>
+        <pin num="20" name="AVCC" type="power_in"/>
+        <pin num="21" name="AREF" type="passive"/>
+        <pin num="22" name="GND" type="passive"/>
+        <pin num="23" name="PC0" type="bidirectional"/>
+        <pin num="24" name="PC1" type="bidirectional"/>
+        <pin num="25" name="PC2" type="bidirectional"/>
+        <pin num="26" name="PC3" type="bidirectional"/>
+        <pin num="27" name="PC4" type="bidirectional"/>
+        <pin num="28" name="PC5" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="08055A220FAT2A">
+      <description>AVX - 08055A220FAT2A - Capacitor,Ceramic,22pF,50VDC,1-% Tol,1+% Tol,C0G-TC Code,-30,30ppm-TC RoHS Compliant: Yes</description>
+      <docs>https://datasheets.kyocera-avx.com/C0GNP0-Dielectric.pdf</docs>
+      <fields>
+        <field name="Reference">C10</field>
+        <field name="Value">08055A220FAT2A</field>
+        <field name="Footprint">CAPC2012X94N</field>
+        <field name="Datasheet">https://datasheets.kyocera-avx.com/C0GNP0-Dielectric.pdf</field>
+        <field name="Height">0.94</field>
+        <field name="Mouser Part Number">581-08055A220FAT2A</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/AVX/08055A220FAT2A?qs=owscpGBW86W1eHk5tzJ5LQ%3D%3D</field>
+        <field name="Manufacturer_Name">AVX</field>
+        <field name="Manufacturer_Part_Number">08055A220FAT2A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="1731721">
+      <description>PCB terminal block, nominal current: 24 A, rated voltage (III/2): 630 V, nominal cross section: 2.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: GMKDS 3, pitch: 7.62 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering</description>
+      <docs>http://www.phoenixcontact.com/de/produkte/1731721/pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">1731721</field>
+        <field name="Footprint">1731721</field>
+        <field name="Datasheet">http://www.phoenixcontact.com/de/produkte/1731721/pdf</field>
+        <field name="Height">18.2</field>
+        <field name="Mouser Part Number">651-1731721</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1731721?qs=Hp4IEBVVqKLHS2iTGzgL4g%3D%3D</field>
+        <field name="Manufacturer_Name">Phoenix Contact</field>
+        <field name="Manufacturer_Part_Number">1731721</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="39512000000">
+      <description>LITTELFUSE - 39512000000 - Fuse, PCB Leaded, 2 A, 125 VAC, TE5 Series, Fast Acting, Radial Leaded</description>
+      <docs>https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_395_datasheet.pdf.pdf</docs>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">39512000000</field>
+        <field name="Footprint">39512000000</field>
+        <field name="Datasheet">https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_395_datasheet.pdf.pdf</field>
+        <field name="Height">8</field>
+        <field name="Mouser Part Number">576-3951200000</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Littelfuse/39512000000?qs=bEWkMhb0NhMa1wvI8W3uTQ%3D%3D</field>
+        <field name="Manufacturer_Name">LITTELFUSE</field>
+        <field name="Manufacturer_Part_Number">39512000000</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="ABLS-16.000MHZ-D2Y-T">
+      <description>OSC XO 1.152GHZ 3.3V LVDS</description>
+      <docs>https://abracon.com/Resonators/abls.pdf</docs>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">ABLS-16.000MHZ-D2Y-T</field>
+        <field name="Footprint">ABLS</field>
+        <field name="Datasheet">https://abracon.com/Resonators/abls.pdf</field>
+        <field name="Mouser Part Number">815-ABLS16MHZD2YT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/ABRACON/ABLS-16.000MHZ-D2Y-T?qs=wnTfsH77Xs6iK%252Bz0SxbbgA%3D%3D</field>
+        <field name="Manufacturer_Name">ABRACON</field>
+        <field name="Manufacturer_Part_Number">ABLS-16.000MHZ-D2Y-T</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="EEE-FTH100UAR">
+      <description>Aluminum Electrolytic Capacitors - SMD 10uF 50volts 4x5.8mm SMD</description>
+      <docs>http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1240.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">EEE-FTH100UAR</field>
+        <field name="Footprint">EEE1AA220WR</field>
+        <field name="Datasheet">http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1240.pdf</field>
+        <field name="Height">5.5</field>
+        <field name="Mouser Part Number">667-EEE-FTH100UAR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Panasonic/EEE-FTH100UAR?qs=CMJjuEs1%252BuHShVFRjhUJug%3D%3D</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">EEE-FTH100UAR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="HTSW-106-07-T-S">
+      <description>Samtec HTSW, 2.54mm Pitch, 6 Way, 1 Row PCB Terminal Block Header, Through Hole</description>
+      <docs>http://suddendocs.samtec.com/catalog_english/htsw_th.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HTSW-106-07-T-S</field>
+        <field name="Footprint">HDRV6W64P0X254_1X6_1524X254X838P</field>
+        <field name="Datasheet">http://suddendocs.samtec.com/catalog_english/htsw_th.pdf</field>
+        <field name="Height">8.38</field>
+        <field name="Mouser Part Number">200-HTSW10607TS</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Samtec/HTSW-106-07-T-S?qs=0lQeLiL1qyaHcVArKisLKg%3D%3D</field>
+        <field name="Manufacturer_Name">SAMTEC</field>
+        <field name="Manufacturer_Part_Number">HTSW-106-07-T-S</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="IRLB8721PBF">
+      <description>Infineon IRLB8721PBF N-Channel MOSFET, 62 A, 30 V HEXFET, 3-Pin TO-220AB</description>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">IRLB8721PBF</field>
+        <field name="Footprint">TO254P483X1016X1994-3P</field>
+        <field name="Height">4.83</field>
+        <field name="Mouser Part Number">942-IRLB8721PBF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IRLB8721PBF?qs=9%252BKlkBgLFf0T58WYx%2FAl5A%3D%3D</field>
+        <field name="Manufacturer_Name">Infineon</field>
+        <field name="Manufacturer_Part_Number">IRLB8721PBF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="passive"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="PTZTFTE255.1B">
+      <description>1W 5.1V, DO-214AC, High Power Zener Diode for Automotive</description>
+      <docs>https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/zener/ptztfte255.1b-e.pdf</docs>
+      <fields>
+        <field name="Reference">Z1</field>
+        <field name="Value">PTZTFTE255.1B</field>
+        <field name="Footprint">PTZTFTE2551B</field>
+        <field name="Datasheet">https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/zener/ptztfte255.1b-e.pdf</field>
+        <field name="Height">2.2</field>
+        <field name="Mouser Part Number">755-PTZTFTE255.1B</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/PTZTFTE255.1B?qs=4v%252BiZTmLVHHthjeDndbvsg%3D%3D</field>
+        <field name="Manufacturer_Name">ROHM Semiconductor</field>
+        <field name="Manufacturer_Part_Number">PTZTFTE255.1B</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="SBRT5A50SA-13">
+      <description>Schottky Diodes &amp; Rectifiers 5A Trench SBR 50V 5A 0.53Vf 0.15mA</description>
+      <docs>https://www.diodes.com/assets/Datasheets/SBRT5A50SA.pdf</docs>
+      <fields>
+        <field name="Reference">D1</field>
+        <field name="Value">SBRT5A50SA-13</field>
+        <field name="Footprint">DIOM5226X240N</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/SBRT5A50SA.pdf</field>
+        <field name="Height">2.4</field>
+        <field name="Mouser Part Number">621-SBRT5A50SA-13</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/SBRT5A50SA-13?qs=vkMqrgFpRag7x5vFbCZKYg%3D%3D</field>
+        <field name="Manufacturer_Name">Diodes Inc.</field>
+        <field name="Manufacturer_Part_Number">SBRT5A50SA-13</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="SRP4012CC-3R3M">
+      <description>Ind,4.45x4.06x1.0mm,3.3uH+/-20%,2.3A,shd</description>
+      <docs>https://www.bourns.com/docs/Product-Datasheets/SRP4012CC.pdf</docs>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">SRP4012CC-3R3M</field>
+        <field name="Footprint">INDPM4441X120N</field>
+        <field name="Datasheet">https://www.bourns.com/docs/Product-Datasheets/SRP4012CC.pdf</field>
+        <field name="Height">1.2</field>
+        <field name="Mouser Part Number">652-SRP4012CC-3R3M</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Bourns/SRP4012CC-3R3M?qs=1Kr7Jg1SGW%252BbLcZ9q3%2FWYA%3D%3D</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">SRP4012CC-3R3M</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="TSW-103-23-T-D">
+      <description>CONN HEADER 6 POS .100"</description>
+      <docs>http://suddendocs.samtec.com/catalog_english/tsw_th.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">TSW-103-23-T-D</field>
+        <field name="Footprint">HDRV6W64P254_2X3_762X508X838P</field>
+        <field name="Datasheet">http://suddendocs.samtec.com/catalog_english/tsw_th.pdf</field>
+        <field name="Height">8.38</field>
+        <field name="Manufacturer_Name">SAMTEC</field>
+        <field name="Manufacturer_Part_Number">TSW-103-23-T-D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="VJ0805Y104MXAMR">
+      <description>Multilayer Ceramic Capacitors MLCC - SMD/SMT 0805 0.1uF 50volts X7R 20%</description>
+      <docs>http://www.vishay.com/docs/45226/vj31xrohsautomlcc.pdf</docs>
+      <fields>
+        <field name="Reference">C6</field>
+        <field name="Value">VJ0805Y104MXAMR</field>
+        <field name="Footprint">CAPC2012X145N</field>
+        <field name="Datasheet">http://www.vishay.com/docs/45226/vj31xrohsautomlcc.pdf</field>
+        <field name="Height">1.45</field>
+        <field name="Mouser Part Number">77-VJ0805Y104MXAMR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Vitramon/VJ0805Y104MXAMR?qs=tXmISY13bxfWmt89zxE%2FDw%3D%3D</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">VJ0805Y104MXAMR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>D:\kicad\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Display_Character">
+      <uri>D:\kicad\share\kicad\symbols\/Display_Character.kicad_sym</uri>
+    </library>
+    <library logical="MCU_Microchip_ATmega">
+      <uri>D:\kicad\share\kicad\symbols\/MCU_Microchip_ATmega.kicad_sym</uri>
+    </library>
+    <library logical="SamacSys_Parts">
+      <uri>D:/kicad/SamacSys_Parts.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="DS1" pin="15" pinfunction="LED(+)" pintype="power_in"/>
+      <node ref="DS1" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="J2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="RV1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="AVCC" pintype="power_in"/>
+      <node ref="U1" pin="7" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="2" name="/DISPLAY_D4">
+      <node ref="DS1" pin="11" pinfunction="D4" pintype="input"/>
+      <node ref="U1" pin="6" pinfunction="PD4" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="/DISPLAY_D5">
+      <node ref="DS1" pin="12" pinfunction="D5" pintype="input"/>
+      <node ref="U1" pin="11" pinfunction="PD5" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/DISPLAY_D6">
+      <node ref="DS1" pin="13" pinfunction="D6" pintype="input"/>
+      <node ref="U1" pin="12" pinfunction="PD6" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/DISPLAY_D7">
+      <node ref="DS1" pin="14" pinfunction="D7" pintype="input"/>
+      <node ref="U1" pin="13" pinfunction="PD7" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/DISPLAY_EN">
+      <node ref="DS1" pin="6" pinfunction="E" pintype="input"/>
+      <node ref="U1" pin="5" pinfunction="PD3" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/DISPLAY_RS">
+      <node ref="DS1" pin="4" pinfunction="RS" pintype="input"/>
+      <node ref="U1" pin="4" pinfunction="PD2" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/MISO">
+      <node ref="J3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="PB4" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/MOSI">
+      <node ref="J3" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="PB3" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/MOTOR_CONTROL">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="PB1" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="/PUSHBUTTON">
+      <node ref="C10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="PB0" pintype="bidirectional"/>
+      <node ref="Z3" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="12" name="/RTS">
+      <node ref="C6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J2" pin="6" pinfunction="6" pintype="passive"/>
+    </net>
+    <net code="13" name="/RXD">
+      <node ref="J2" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="PD1" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="/SCK">
+      <node ref="J3" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="PB5" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/TXD">
+      <node ref="J2" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="16" name="/XTAL1">
+      <node ref="C7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="XTAL1/PB6" pintype="bidirectional"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="17" name="/XTAL2">
+      <node ref="C8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="XTAL2/PB7" pintype="bidirectional"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="18" name="/{slash}RESET">
+      <node ref="C6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J3" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="~{RESET}/PC6" pintype="bidirectional"/>
+      <node ref="Z2" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="19" name="GND">
+      <node ref="C1" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="C10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="DS1" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="DS1" pin="16" pinfunction="LED(-)" pintype="power_in"/>
+      <node ref="DS1" pin="5" pinfunction="R/W" pintype="input"/>
+      <node ref="J1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J3" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="RV1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="PC0" pintype="bidirectional"/>
+      <node ref="U1" pin="24" pinfunction="PC1" pintype="bidirectional"/>
+      <node ref="U1" pin="25" pinfunction="PC2" pintype="bidirectional"/>
+      <node ref="U1" pin="26" pinfunction="PC3" pintype="bidirectional"/>
+      <node ref="U1" pin="27" pinfunction="PC4" pintype="bidirectional"/>
+      <node ref="U1" pin="28" pinfunction="PC5" pintype="bidirectional"/>
+      <node ref="U1" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="Z1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Z2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Z3" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(C1-+)">
+      <node ref="C1" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="F1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="Z1" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(DS1-VO)">
+      <node ref="DS1" pin="3" pinfunction="VO" pintype="input"/>
+      <node ref="RV1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(F1-Pad1)">
+      <node ref="F1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(Q1-G)">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(R6-Pad2)">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="SW1" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(R7-Pad2)">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="SW2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="SW2" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(U1-AREF)">
+      <node ref="C5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="AREF" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(U1-PD0)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="PD0" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="unconnected-(DS1-D0-Pad7)">
+      <node ref="DS1" pin="7" pinfunction="D0" pintype="input+no_connect"/>
+    </net>
+    <net code="30" name="unconnected-(DS1-D1-Pad8)">
+      <node ref="DS1" pin="8" pinfunction="D1" pintype="input+no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(DS1-D2-Pad9)">
+      <node ref="DS1" pin="9" pinfunction="D2" pintype="input+no_connect"/>
+    </net>
+    <net code="32" name="unconnected-(DS1-D3-Pad10)">
+      <node ref="DS1" pin="10" pinfunction="D3" pintype="input+no_connect"/>
+    </net>
+    <net code="33" name="unconnected-(U1-PB2-Pad16)">
+      <node ref="U1" pin="16" pinfunction="PB2" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>
